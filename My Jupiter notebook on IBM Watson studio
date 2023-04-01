@@ -1,1 +1,0 @@
-# My-Jupiter-notebook-on-IBM-Watson-studio-
